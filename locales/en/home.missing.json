@@ -1,0 +1,15 @@
+{
+  "of_the_report": "of_the_report",
+  "common": {
+    "language": "common.language"
+  },
+  "start_test": "start_test",
+  "paragraphs": {
+    "first": "paragraphs.first",
+    "test_evaluation": "paragraphs.test_evaluation",
+    "inventory_is_from": "paragraphs.inventory_is_from",
+    "name_inventor": "paragraphs.name_inventor",
+    "see_an": "paragraphs.see_an",
+    "of_the_report": "paragraphs.of_the_report"
+  }
+}
